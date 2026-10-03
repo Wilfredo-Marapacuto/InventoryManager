@@ -10,7 +10,7 @@ To run the program on Windows, open a terminal in the project folder and enter:
 
 Select an option from the menu and follow the prompts. The program automatically creates its database on the first run and keeps the data between sessions.
 
-Software Demo Video: To be added after recording.
+[Software Demo Video](https://youtu.be/4VwdEypnX5A)
 
 # Relational Database
 
