@@ -1,0 +1,12 @@
+# Local inventory database and temporary SQLite files
+inventory.db
+inventory.db-journal
+inventory.db-wal
+inventory.db-shm
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local editor settings
+.vscode/
